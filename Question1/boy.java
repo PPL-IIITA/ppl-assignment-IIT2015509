@@ -1,0 +1,44 @@
+/**
+ * 
+ */
+
+/**
+ * @author Jarvis
+ *
+ */
+
+public class boy{
+	/**
+	 * The given attributes defines a boy;
+	 */
+		
+	String name;
+	int attract;
+	int intellect;
+	public int budget;
+	int requirement;
+	String status;
+	String gf;
+	
+	boy(String name,int attract,int intellect,int budget,int requirement,String status){
+		
+		this.name = name;
+		this.attract = attract;
+		this.intellect = intellect;
+		this.budget = budget;
+		this.requirement = requirement;
+		this.status = status;
+		this.gf = "";
+		
+	}
+	boolean match(girl g){
+		if(this.budget >=g.expense && this.requirement <= g.attract){
+			return true;
+			
+		}
+		else{
+			return false;
+		}
+	}
+}
+	
