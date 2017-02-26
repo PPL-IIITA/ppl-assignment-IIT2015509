@@ -12,6 +12,6 @@ Note: All the codes submitted are tested on  only openjdk version "1.8.0_121"
 > ./q2.sh  or bash q2.sh      (in folder Question2 for the second question)<br />
 
 ##Tools Used
-Eclipse for Java Source Codes
-Doxygen for documentation
-Class Diagrams Generated using Eclipse
+>Eclipse for Java Source Codes</br>
+>Doxygen for documentation</br>
+>Class Diagrams Generated using Eclipse
