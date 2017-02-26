@@ -4,11 +4,11 @@ ppl-assignment-IIT2015509 created by GitHub Classroom <br />
 
 ##Build System:
 >Windows 10 <br />
->OS type 64 bi
+>OS type 64 bit
 
 ##Command for Terminal in Linux:
 Note: All the codes submitted are tested on  only openjdk version "1.8.0_121"
->bash runq1.sh        (in folder q1, for Question 1)<br />
->bash runq2.sh        (in folder q2 for Question 2)<br />
+>./q1.sh  or bash q1.sh       (in folder Question1  for the first question)<br />
+> ./q2.sh  or bash q2.sh      (in folder Question2 for the second question)<br />
 
 
