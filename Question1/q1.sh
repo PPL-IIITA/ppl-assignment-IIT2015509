@@ -1,7 +1,3 @@
-file="log.txt"
-if [ -f $file ] ; then
-			rm $file
-		fi
 		javac q1.java
 		java q1
 		
