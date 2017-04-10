@@ -1,4 +1,4 @@
-To execute the file ,execute q3.java
+To execute the file ,execute java q3
 
 A output is displayed on the screen that depicts the tasks being performed.
 A log file named 3.log is also created .
