@@ -1,4 +1,4 @@
-To execute the file ,execute java q6
+To execute the file ,execute java q5
 
 A output is displayed on the screen that depicts the tasks being performed.
 A log file named 5.log is also created .
