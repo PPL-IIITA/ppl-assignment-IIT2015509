@@ -4,8 +4,9 @@ ppl-assignment-IIT2015509 created by GitHub Classroom <br />
 
 ## Prerequisites
 Ensure 
-> Java version "1.8.0_121" 
-> Jdk 1.8 or above
+> Java version "1.8.0_121" </br>
+> Jdk 1.8 or above</br>
+> Javac compiler installed on your system</br>
 ## Build System:
 > Windows 10 <br />
 > OS type 64 bit
