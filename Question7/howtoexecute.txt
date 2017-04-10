@@ -1,4 +1,4 @@
-To execute the file ,execute q7.java
+To execute the file ,execute ,java q7
 
 A output is displayed on the screen that depicts the tasks being performed.
 A log file named 7.log is also created .
