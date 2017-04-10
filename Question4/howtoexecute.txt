@@ -1,4 +1,4 @@
-To execute the file ,execute q4.java
+To execute the file ,execute java q4
 
 A output is displayed on the screen that depicts the tasks being performed.
 A log file named 4.log is also created .
