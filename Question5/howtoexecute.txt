@@ -1,0 +1,6 @@
+To execute the file ,execute q5.java
+
+A output is displayed on the screen that depicts the tasks being performed.
+A log file named 3.log is also created .
+
+To access the file ,execute cat 5.log on the terminal. 
