@@ -1,0 +1,6 @@
+To execute the file ,execute q8.java
+
+A output is displayed on the screen that depicts the tasks being performed.
+A log file named 8.log is also created .
+
+To access the file ,execute cat 8.log on the terminal. 
