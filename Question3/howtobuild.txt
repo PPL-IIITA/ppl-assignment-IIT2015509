@@ -1,0 +1,7 @@
+Make sure you have javac compiler installed on your system.
+Documentation are generated from Eclipse Neon 3.0 ,so make sure you have it or some other tool that does it.
+
+
+Extract the files from the zipped folder and change directory to Question4.
+To compile the question :- execute javac q3.java
+
