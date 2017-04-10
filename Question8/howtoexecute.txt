@@ -1,4 +1,4 @@
-To execute the file ,execute q8.java
+To execute the file ,execute java q8
 
 A output is displayed on the screen that depicts the tasks being performed.
 A log file named 8.log is also created .
