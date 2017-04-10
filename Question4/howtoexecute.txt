@@ -1,6 +1,6 @@
 To execute the file ,execute q4.java
 
 A output is displayed on the screen that depicts the tasks being performed.
-A log file named 3.log is also created .
+A log file named 4.log is also created .
 
 To access the file ,execute cat 4.log on the terminal. 
